@@ -1,0 +1,16 @@
+MF Matematyczne
+MO A 3
+MO B 2
+AD A B
+OF Matematyczne
+AF Matematyczne Wynik_dodawania:
+EF Matematyczne A
+MU A B
+AF Matematyczne Wynik_mnozenia:
+EF Matematyczne A
+SB A B
+AF Matematyczne Wynik_odejmowania:
+EF Matematyczne A
+RF Matematyczne
+CF Matematyczne
+HL

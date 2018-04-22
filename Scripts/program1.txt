@@ -1,0 +1,25 @@
+MF silnia
+MO A 3
+MO B 1
+JE 48
+MU B A
+DC A
+JP 24
+OF silnia
+AF silnia Silnia=
+EF silnia B
+MO A 4
+MO B 1
+MO C 0
+JE 149
+MV D C
+AD C B
+MV B D
+DC A
+JP 109
+AF silnia Fibonacci=
+EF silnia C
+CF silnia
+RF silnia
+DP silnia
+HL

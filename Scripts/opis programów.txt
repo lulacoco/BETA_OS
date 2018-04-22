@@ -1,0 +1,4 @@
+program1 arytmetyka
+program2 wysy³anie
+program3 odbieranie
+program4 arytmetyka+pliki

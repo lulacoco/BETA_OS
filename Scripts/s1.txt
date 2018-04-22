@@ -1,0 +1,10 @@
+MF plik1
+SE plik1
+EF plik1 kjsdksajdksajdkajdkasjdsa
+AF plik1 PRZEKAZUJEDALEJEJEJEJJE
+MV plik1 plik2
+SC
+SD
+PP plik1
+PP plik12321
+EX

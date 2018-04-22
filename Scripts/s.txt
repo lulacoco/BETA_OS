@@ -1,0 +1,3 @@
+CP proces1 program1.txt
+CP proces2 program1a.txt
+GO
